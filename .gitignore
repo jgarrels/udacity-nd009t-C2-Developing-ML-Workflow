@@ -4,3 +4,5 @@ project/cifar.tar.gz
 project/test/*
 project/train/*
 project/file.png
+project/captured_data/*
+*.lst
