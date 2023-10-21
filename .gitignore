@@ -6,3 +6,9 @@ project/train/*
 project/file.png
 project/captured_data/*
 *.lst
+all-cifar-project-variant/cifar-100-python/*
+all-cifar-project-variant/cifar.tar.gz
+all-cifar-project-variant/test/*
+all-cifar-project-variant/train/*
+all-cifar-project-variant/file.png
+all-cifar-project-variant/captured_data/*
